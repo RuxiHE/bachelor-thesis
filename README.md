@@ -1,4 +1,4 @@
-# bachelor-thesis
+# bachelor-thesis abstract 
 
 Fresh grapes are an important fresh agricultural product, and the grape industry is an important part of rural revitalization and modern agriculture development in the main production areas. With the deepening development of e-commerce, e-commerce platforms have become the main marketing and sales channels for fresh agricultural products. E-commerce platforms contain abundant data information, and mining and analyzing this data can better understand consumer needs and promote sustainable development of e-commerce.
 
